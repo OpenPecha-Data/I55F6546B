@@ -1,0 +1,26 @@
+id: I55F6546B
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:19:38.429235+00:00
+last_modified: 2022-12-14 15:19:38.429240+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-049-001
+  eft-text-version: 1.0.4 2021
+  title: Toh_106-Unravelling_the_Intent-v2
+bases:
+  '8639':
+    source_metadata: null
+    order: 1
+    base_file: 8639.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
